@@ -107,3 +107,7 @@ Open the new `.prproj` in Premiere. No relinking is needed.
 - Run the tests: `python -m unittest discover -s tests -v`
 - Build the portable app: `BUILD_PROJECT_MANAGER_EXE.bat` (uses PyInstaller in a
   local virtual environment, and writes `release\ProjectManager_Portable.zip`).
+
+## License
+
+[MIT](LICENSE). Free to use, modify and share.
